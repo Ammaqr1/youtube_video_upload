@@ -1,0 +1,13 @@
+groq
+python-dotenv
+pandas
+moviepy==1.0.3
+asyncio
+edge_tts
+bing-image-downloader
+pydantic
+httplib2
+google-api-python-client
+oauth2client
+apiclient 
+streamlit
